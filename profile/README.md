@@ -14,16 +14,16 @@ Payment Initiation Service Provider (PISP) — Open Banking Read/Write API v4.0.
 |---------|-------------|
 | [domestic-payments](https://github.com/wongsawat-pisp-openbanking/domestic-payments) | FPS domestic payments — pacs.008 outbound, pacs.002 inbound, saga-driven status transitions |
 | [file-payments](https://github.com/wongsawat-pisp-openbanking/file-payments) | Bulk pain.001 file payments via Spring Batch + FPS rail adapter |
-| [international-payments](https://github.com/wongsawat-pisp-openbanking/international-payments) | International payment initiation |
+| international-payments | International payment initiation |
 
 ### Scheduled Payments & Standing Orders
 
 | Service | Description |
 |---------|-------------|
-| [domestic-scheduled-payments](https://github.com/wongsawat-pisp-openbanking/domestic-scheduled-payments) | Future-dated domestic payments |
-| [international-scheduled-payments](https://github.com/wongsawat-pisp-openbanking/international-scheduled-payments) | Future-dated international payments |
-| [domestic-standing-orders](https://github.com/wongsawat-pisp-openbanking/domestic-standing-orders) | Recurring domestic payments |
-| [international-standing-orders](https://github.com/wongsawat-pisp-openbanking/international-standing-orders) | Recurring international payments |
+| domestic-scheduled-payments | Future-dated domestic payments |
+| international-scheduled-payments | Future-dated international payments |
+| domestic-standing-orders | Recurring domestic payments |
+| international-standing-orders | Recurring international payments |
 
 ### Consent Management
 
@@ -31,11 +31,11 @@ Payment Initiation Service Provider (PISP) — Open Banking Read/Write API v4.0.
 |---------|-------------|
 | [domestic-payment-consents](https://github.com/wongsawat-pisp-openbanking/domestic-payment-consents) | Consent for domestic payments; funds confirmation endpoint |
 | [file-payment-consents](https://github.com/wongsawat-pisp-openbanking/file-payment-consents) | Consent for bulk file payments; file upload + SHA-256 verification |
-| [international-payment-consents](https://github.com/wongsawat-pisp-openbanking/international-payment-consents) | Consent for international payments |
-| [domestic-scheduled-payment-consents](https://github.com/wongsawat-pisp-openbanking/domestic-scheduled-payment-consents) | Consent for scheduled domestic payments |
-| [international-scheduled-payment-consents](https://github.com/wongsawat-pisp-openbanking/international-scheduled-payment-consents) | Consent for scheduled international payments |
-| [domestic-standing-order-consents](https://github.com/wongsawat-pisp-openbanking/domestic-standing-order-consents) | Consent for domestic standing orders |
-| [international-standing-order-consents](https://github.com/wongsawat-pisp-openbanking/international-standing-order-consents) | Consent for international standing orders |
+| international-payment-consents | Consent for international payments |
+| domestic-scheduled-payment-consents | Consent for scheduled domestic payments |
+| international-scheduled-payment-consents | Consent for scheduled international payments |
+| domestic-standing-order-consents | Consent for domestic standing orders |
+| international-standing-order-consents | Consent for international standing orders |
 
 ### Platform Infrastructure
 
