@@ -22,7 +22,7 @@ Payment Initiation Service Provider (PISP) — Open Banking Read/Write API v4.0.
 |---------|-------------|
 | domestic-scheduled-payments | Future-dated domestic payments |
 | international-scheduled-payments | Future-dated international payments |
-| domestic-standing-orders | Recurring domestic payments |
+| [domestic-standing-orders](https://github.com/wongsawat-pisp-openbanking/domestic-standing-orders) | Recurring domestic payments |
 | international-standing-orders | Recurring international payments |
 
 ### Consent Management
