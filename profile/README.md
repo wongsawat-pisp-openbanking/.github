@@ -34,7 +34,7 @@ Payment Initiation Service Provider (PISP) — Open Banking Read/Write API v4.0.
 | international-payment-consents | Consent for international payments |
 | domestic-scheduled-payment-consents | Consent for scheduled domestic payments |
 | international-scheduled-payment-consents | Consent for scheduled international payments |
-| domestic-standing-order-consents | Consent for domestic standing orders |
+| [domestic-standing-order-consents](https://github.com/wongsawat-pisp-openbanking/domestic-standing-order-consents) | Consent for domestic standing orders |
 | international-standing-order-consents | Consent for international standing orders |
 
 ### Platform Infrastructure
